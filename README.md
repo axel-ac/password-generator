@@ -10,7 +10,7 @@ Password Generator(folder)
 |----readme.md                 
 |----index.html  
 |----style.css   
-|----app.js
+|----script.js
 ```
 ## Project-gif
 ![password-generator](https://user-images.githubusercontent.com/102467587/221689733-777904c0-8536-4051-bd1e-bab08a463236.gif)
