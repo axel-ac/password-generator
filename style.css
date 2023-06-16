@@ -9,11 +9,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: cyan;
 }
 
 section {
-  width: 200px;
-  height: 100px;
+  width: 400px;
+  height: 200px;
   box-shadow: 0px 0px 10px 0px grey;
   display: flex;
   flex-direction: column;
@@ -21,20 +22,24 @@ section {
   align-items: center;
   gap: 10px;
   border-radius: 10px;
+  background-color: whitesmoke;
 }
 section div {
   border-radius: 10px;
   border: 1px solid grey;
-  width: 140px;
-  height: 30px;
-  font-size: 1.3rem;
+  width: 200px;
+  height: 60px;
+  font-size: 1.7rem;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 input {
-  padding: 3px;
+  padding: 8px;
   border-radius: 10px;
   cursor: pointer;
+  background-color: cyan;
+  border: none;
+  font-weight: bold;
 }
