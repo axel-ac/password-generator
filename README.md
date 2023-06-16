@@ -13,7 +13,7 @@ Password Generator(folder)
 |----script.js
 ```
 ## Project-gif
-![password-generator](https://user-images.githubusercontent.com/102467587/221689733-777904c0-8536-4051-bd1e-bab08a463236.gif)
+![password](https://github.com/axel-ac/password-generator/assets/102467587/c287fba1-4e7e-4688-aaad-2f1b9999b1dc)
 ## Project-link
 https://vanilla-js-password-generator-axel.netlify.app/
 ### At the end of the project, following topics are to be covered;
